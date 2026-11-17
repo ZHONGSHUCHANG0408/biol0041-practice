@@ -1,0 +1,14 @@
+Tool: Boltz-2
+Version: 2.2.1
+Input: Streptavidin (159 aa) + Biotin (BTN)
+Hardware: Apple Silicon MacBook Air, 8GB RAM
+Accelerator: CPU
+MSA: empty
+Recycling steps: 1
+Sampling steps: 10
+Diffusion samples: 1
+Seed: 42
+Total runtime: 267.47 seconds
+Date: 2026-11-17
+Result: Inference completed successfully
+Note: Reduced settings; feasibility test, not a formal benchmark.
